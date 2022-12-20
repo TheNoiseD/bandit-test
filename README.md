@@ -27,7 +27,7 @@ npm install
 3. Crear BD con COLLATE 'utf8mb4_general_ci'.
 
 ```sh 
-`CREATE DATABASE laravel COLLATE 'utf8mb4_general_ci';`
+`CREATE DATABASE bandit COLLATE 'utf8mb4_general_ci';`
 ```
 
 4. Duplique el archivo `.env.example` incluido en uno de nombre `.env` y dentro de este ingrese los valores de las variables de entorno necesarias
