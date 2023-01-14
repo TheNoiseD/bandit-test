@@ -1,4 +1,4 @@
-# Manual de Instalacion Test BIG HOLDING
+# Manual de Instalacion Test BANDIT
 
 ### Requisitos
 
